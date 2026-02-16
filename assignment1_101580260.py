@@ -1,5 +1,5 @@
 """
-Author: <YOUR REAL FIRST AND LAST NAME>
+Author: Andrea Salswach Lopez
 Assignment: #1
 """
 
